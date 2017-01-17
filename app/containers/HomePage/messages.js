@@ -8,6 +8,6 @@ import { defineMessages } from 'react-intl';
 export default defineMessages({
   header: {
     id: 'app.components.HomePage.header',
-    defaultMessage: 'This is the beginning!',
+    defaultMessage: 'This is the beginning, look for how to do backgrounds and messaging!',
   },
 });
